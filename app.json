@@ -1,0 +1,7 @@
+{
+    "name": "Ionic to Heroku Example",
+    "description": "Ionic app for Heroku",
+    "repository": "git@github.com:jccbcc/myMobile.git",
+    "logo": "http://pathToYourLogo.png",
+    "keywords": ["ionic", "Heroku", "cloud"]
+}
